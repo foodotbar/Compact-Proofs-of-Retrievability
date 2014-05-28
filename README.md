@@ -1,8 +1,7 @@
 Compact-Proofs-of-Retrievability
 ================================
 
-After read Hovav Shacham and Brent Waters's paper "Compact Proofs of Retrievability"
 
-I wrote a little program to prove the first scheme
+this is a little program to implementation the first scheme of Shacham and Brent Waters's paper "Compact Proofs of Retrievability"
 
-Here it is.
+
